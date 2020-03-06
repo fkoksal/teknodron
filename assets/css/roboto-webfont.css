@@ -20,3 +20,10 @@
     font-style: normal;
 
 }
+@font-face {
+    font-family: 'androidregular';
+    src: url('../fonts/Android.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}

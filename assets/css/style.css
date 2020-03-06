@@ -28,6 +28,11 @@ img {
     user-drag: none;
 }
 
+.logo {
+    font-family: 'androidregular';
+    font-size: xx-large;
+    margin-top: 8px;
+}
 
 /*==========================================
 PRE LOADER 
